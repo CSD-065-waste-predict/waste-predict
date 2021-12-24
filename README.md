@@ -1,4 +1,6 @@
-# Aplikasi Website Prediksi Jenis Sampah Organik / Non Organik
+<h1 align=center>Waste Type Prediction | <a href="https://waste-prediction-image.herokuapp.com//">Demo App</a></h1>
+
+### Aplikasi Website Prediksi Jenis Sampah Organik / Non Organik
 
 Aplikasi website prediksi jenis sampah organik / non organik mengklasifikasikan jenis sampah melalui gambar menggunakan teknik Machine Learning Image Classification. Aplikasi Web ini dibuat untuk memilah jenis-jenis sampah guna mengurangi ketercampuran sampah.
 
